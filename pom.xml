@@ -37,7 +37,7 @@
     <artifactId>publish-over-ssh</artifactId>
     <packaging>hpi</packaging>
     <name>Publish Over SSH</name>
-    <version>1.13.qrr0-SNAPSHOT</version>
+    <version>1.13.qrr0</version>
     <description>Send build artifacts over SSH</description>
     <url>http://wiki.jenkins-ci.org/display/JENKINS/Publish+Over+SSH+Plugin</url>
 
@@ -102,7 +102,7 @@
         <url>https://github.com/rwegmann/publish-over-ftp-plugin</url>
         <connection>scm:git:git://github.com/rwegmann/publish-over-ssh-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:rwegmann/publish-over-ssh-plugin.git</developerConnection>
-        <tag>qrr-1.13</tag>
+        <tag>publish-over-ssh-1.13.qrr0</tag>
   </scm>
     
     <issueManagement>
